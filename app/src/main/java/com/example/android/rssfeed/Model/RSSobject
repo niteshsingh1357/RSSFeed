@@ -1,0 +1,18 @@
+package com.example.android.rssfeed.Model;
+
+import java.util.List;
+
+/**
+ * Created by nitesh on 2/1/18.
+ */
+
+
+
+public class Enclosure
+{
+}
+
+
+
+
+
